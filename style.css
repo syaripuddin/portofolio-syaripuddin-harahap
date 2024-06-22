@@ -1,0 +1,28 @@
+.jumbotron {
+  /* padding: 2rem 1rem; */
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+a {
+  padding: 20px 20px;
+}
+#contact {
+  padding-bottom: 120px;
+}
+.one img {
+  height: 360px;
+}
+.card-body a {
+  text-decoration: none;
+  color: black;
+  background-color: #2ecc71;
+  display: inline-block;
+  border-radius: 20px;
+}
